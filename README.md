@@ -1,21 +1,9 @@
 # Hi 👋, I'm stavros1samaras
 
-### 🎓 Education
 
-**University of Macedonia (UoM)**  
-BSc in Applied Informatics  
-**Specialization:** Science and Technology of Computers
-
-**Fields of Study:**
-- Web Engineering and Development
-- Cloud Computing and Networks
-- Parallel and Distributed Computing
-- Artificial Intelligence
-- Computer Systems
-- Information Security
-- Databases
-- Human-Computer Interaction
-
+| Education | Experience |
+|---|---|
+| Studied Computer Science at University of Macedonia  | Worked as a Frontend Developer at GWF |
 ---
 
 ### 💻 Technologies & Tools
