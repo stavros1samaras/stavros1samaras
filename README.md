@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Playwright-39934B?style=flat&logo=playwright&logoColor=white">
 </p>
 
-<br>
+
 
 <p>
 <img src="https://img.shields.io/badge/HTML-D65B39?style=flat&logo=html5&logoColor=white">
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Bash-333333?style=flat&logo=gnubash&logoColor=white">
 </p>
 
-<br>
+
 
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-2995AA?style=flat&logo=tailwindcss&logoColor=white">
@@ -32,23 +32,20 @@
 
 </p>
 
-<br>
+
 
 <p>
   <img src="https://img.shields.io/badge/Recharts-299BA5?style=flat&logo=recharts&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-91A83D?style=flat&logo=swagger&logoColor=black">
 </p>
 
-<br>
+
+
+
 
 <p>
-  <img src="https://img.shields.io/badge/Vite-646CBB?style=flat&logo=vite&logoColor=white">
+    <img src="https://img.shields.io/badge/Vite-646CBB?style=flat&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/Turbopack-000000?style=flat&logo=turbopack&logoColor=white">
-</p>
-
-<br>
-
-<p>
 <img src="https://img.shields.io/badge/Git-D65B39?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/npm-CB5555?style=flat&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/ESLint-5B50A5?style=flat&logo=eslint&logoColor=white">
@@ -56,7 +53,7 @@
 
 </p>
 
-<br>
+
 
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
@@ -65,7 +62,7 @@
 <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white">
 </p>
 
-<br>
+
 
 <p>
 <img src="https://img.shields.io/badge/VS_Code-267EBB?style=flat&logo=visualstudiocode&logoColor=white">
@@ -73,7 +70,7 @@
 
 </p>
 
-<br>
+
 
 <p>
 <img src="https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoColor=white">
@@ -81,7 +78,7 @@
 <img src="https://img.shields.io/badge/Google_Antigravity-5285C2?style=flat&logo=google&logoColor=white">
 </p>
 
-<br>
+
 
 <p>
 <img src="https://img.shields.io/badge/Windows-267EBB?style=flat&logo=windows11&logoColor=white">
